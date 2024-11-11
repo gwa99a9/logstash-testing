@@ -14,7 +14,7 @@ public class JsonSender {
     public static void main(String[] args) {
         // Path to the JSON files
         String reqFilePath = "req_sample.json";
-        String resFilePath = "C:\\ELK\\logstash-7.16.2-windows-x86_64\\logstash-7.16.2\\config\\res_sample.json";
+        String resFilePath = "res_sample.json";
 
         // Number of seconds the program should run
         int nSeconds = 200;
